@@ -1,5 +1,5 @@
 
-```markdown
+
 # Joker App
 
 ## Having a Bad Day? We've Got You Covered!
